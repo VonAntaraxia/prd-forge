@@ -4,7 +4,7 @@ Generate Product Requirements Documents. Two phases: clarify, then forge.
 
 ## Why prd-forge?
 
-Writing PRDs from scratch every time is slow. Quality varies. Sections get skipped, stories get vague, criteria turn unverifiable.
+Writing PRDs from scratch takes time. Sections get skipped. Stories get vague. Criteria turn unverifiable.
 
 prd-forge standardizes the process: asks structured questions first, then writes a complete PRD with measurable goals, verifiable acceptance criteria, and explicit non-goals.
 
@@ -66,7 +66,7 @@ npx skills add https://github.com/VonAntaraxia/prd-forge --skill prd-forge --yes
 
 - `SKILL.md` -- skill definition
 - `AGENTS.md` -- agent behavior spec
-- `references/template.md` -- PRD template
+- `references/example.md` -- PRD example
 
 ## License
 
