@@ -1,6 +1,6 @@
 # prd-forge
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)
 ![GitHub Repo stars](https://img.shields.io/github/stars/VonAntaraxia/prd-forge?style=flat&logo=github)
 
 Generate Product Requirements Documents. Two phases: clarify, then forge.
